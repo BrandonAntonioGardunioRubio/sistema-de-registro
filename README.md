@@ -1,8 +1,9 @@
-> Aquí hay una [página con tips para mejorar el archivo readme]([https://en.support.wordprss.com/markdown-quick-reference/](https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github)) Markdown
-
 <h1>Sistema de registro</h1>
 
 -Estado del proyecto en costrucción.<br>
+para ejecutar el sistema debes poner:
+````npm install react````
+
 -Nuestro **primer ejemplo** de fragmento de texto en markdown.
 > Aquí hay una [página con los códigos más frecuentes](https://en.support.wordprss.com/markdown-quick-reference/) Markdown
 
@@ -13,6 +14,9 @@
 -Donde los usuarios pueden encontrar ayuda sobre su proyecto.<br>
 -Autores del proyecto.<br>
 <br><br><br>
+
+
+> Aquí hay una [página con tips para mejorar el archivo readme]([https://en.support.wordprss.com/markdown-quick-reference/](https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github)) Markdown
 
     <h2>ESTRUCTURA DEL README</h2><br>
 > Título e imagen de portada.<br>
