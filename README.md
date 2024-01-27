@@ -1,4 +1,4 @@
-<h1>Sistema de registro</h1>
+<h1>Sistema de registro 2</h1>
 
 -Estado del proyecto en costrucción.<br>
 para ejecutar el sistema debes poner:
